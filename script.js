@@ -5,15 +5,15 @@ const caixaPrincipal = document.querySelector(".caixa-resultado");
 const caixaPrincipal = document.querySelector(".texto-resultado");
 const perguntas = [
 {
-    enunciado: "Pergunta1"
+    enunciado: "Pergunta1",
     alternativas: [
         {
             texto: "alternativa1",
-            afirmacao:"afirmacao1"
+            afirmacao:"afirmacao1",
         },
          {
             texto: "alternativa2",
-            afirmacao:"afirmacao2"
+            afirmacao:"afirmacao2",
         }
     ],
         
