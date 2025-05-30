@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Como podemos relacionar a preservação ambiental com a Semana Farroupilha?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "afirmação"
+                texto: " Incentivando festas e eventos sustentáveis durante as comemorações.",
+                afirmacao: "Reduz o impacto ambiental das celebrações (menos lixo, menos desperdício)."
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "afirmação"
+                texto: " Valorizando práticas antigas de convivência com a natureza, como o uso racional de recursos.",
+                afirmacao: "Ensina que os povos antigos também tinham sabedoria ecológica."
             }
         ]
     },
