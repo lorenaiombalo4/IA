@@ -28,21 +28,19 @@ const perguntas = [
             {
                 texto: "Focar nas tradições clássicas da Semana Farroupilha, mas implementando campanhas de conscientização contra a homofobia para educar o público.",
                 afirmacao: " A Semana Farroupilha celebra a história e tradições do Rio Grande do Sul, e a educação é uma ferramenta poderosa para combater preconceitos.
-
-"
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Qual a relação entre a conservação da fauna gaúcha e a promoção de um ambiente livre de homofobia?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "afirmação"
+                texto: " Estimular grupos de conservação ambiental que incluam ativistas LGBTQIA+, promovendo inclusão em causas sociais e ambientais.",
+                afirmacao: " A diversidade social fortalece movimentos ambientais, trazendo diferentes perspectivas e maior engajamento."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "afirmação"
+                texto: "Priorizar ações de proteção animal com políticas públicas, assegurando que essas ações sejam igualmente respeitosas e inclusivas para todas as pessoas, independentemente de orientação sexual.",
+                afirmacao: ""
             }
         ]
     },
