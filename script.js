@@ -26,8 +26,10 @@ const perguntas = [
                 afirmacao: " O Movimento LGBTQIA+ tem contribuído para a valorização da cultura local com novas expressões artísticas."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "afirmação"
+                texto: "Focar nas tradições clássicas da Semana Farroupilha, mas implementando campanhas de conscientização contra a homofobia para educar o público.",
+                afirmacao: " A Semana Farroupilha celebra a história e tradições do Rio Grande do Sul, e a educação é uma ferramenta poderosa para combater preconceitos.
+
+"
             }
         ]
     },
