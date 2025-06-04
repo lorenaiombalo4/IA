@@ -40,33 +40,33 @@ const perguntas = [
             },
             {
                 texto: "Priorizar ações de proteção animal com políticas públicas, assegurando que essas ações sejam igualmente respeitosas e inclusivas para todas as pessoas, independentemente de orientação sexual.",
-                afirmacao: ""
+                afirmacao: "Políticas públicas podem integrar combate à homofobia e conservação ambiental, promovendo igualdade e sustentabilidade."
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Durante a Semana Farroupilha, como podemos usar a narrativa histórica para combater a homofobia e também destacar a importância da biodiversidade do Rio Grande do Sul?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "afirmação"
+                texto: "Contar histórias de figuras históricas da região que tenham relação com a luta por direitos e respeito à diversidade, vinculando isso à preservação dos animais locais.",
+                afirmacao: "Personagens históricos podem ser inspiração para promover valores de respeito e proteção ambiental."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "afirmação"
+                texto: "Utilizar símbolos tradicionais da Semana Farroupilha para promover mensagens de respeito e inclusão, enquanto destacamos espécies ameaçadas da fauna local como patrimônio a ser preservado.",
+                afirmacao: "O símbolo do chimarrão, por exemplo, representa união cultural e pode ser usado para sensibilizar sobre inclusão e conservação."
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Como o combate à homofobia pode influenciar positivamente a conscientização sobre a extinção de animais no Rio Grande do Sul?",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "afirmação"
+                texto: " Construir uma cultura de respeito e empatia, que valorize todas as formas de vida, tanto humana quanto animal, criando assim um ambiente mais inclusivo e consciente.",
+                afirmacao: "A empatia contra o preconceito social está ligada à valorização da vida em geral, incluindo espécies ameaçadas."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "afirmação"
+                texto: " Incluir comunidades LGBTQIA+ nas campanhas ambientais, reforçando que o engajamento social diverso fortalece as ações contra a extinção de espécies.",
+                afirmacao: 'A diversidade nos grupos de defesa ambiental contribui para estratégias mais criativas e efetivas.'
             }
         ]
     },
