@@ -27,7 +27,7 @@ const perguntas = [
             },
             {
                 texto: "Focar nas tradições clássicas da Semana Farroupilha, mas implementando campanhas de conscientização contra a homofobia para educar o público.",
-                afirmacao: " A Semana Farroupilha celebra a história e tradições do Rio Grande do Sul, e a educação é uma ferramenta poderosa para combater preconceitos.
+                afirmacao: " A Semana Farroupilha celebra a história e tradições do Rio Grande do Sul, e a educação é uma ferramenta poderosa para combater preconceitos.'
             }
         ]
     },
